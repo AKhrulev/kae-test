@@ -1,0 +1,5 @@
+MSDOS 1.0 did not support the ANSI or any other escape sequences. 
+Only a few control characters (CR, LF, BS) were interpreted, making it 
+impossible to do any kind of full-screen application. Any display 
+effects had to be done with BIOS calls (or far more often by directly 
+manipulating the IBM PC hardware).
