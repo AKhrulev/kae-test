@@ -13,4 +13,4 @@ for i in range(0, len(s)):
             max_str = str_tmp
             break
 print(max_str)
-# 'ehda_8f4qvszmm_jy6yfy6yj_mmzsvq4f8_adhe'
+# The longest palindrome is: 'ehda_8f4qvszmm_jy6yfy6yj_mmzsvq4f8_adhe'
