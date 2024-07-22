@@ -2,6 +2,7 @@ import random
 
 #s = 'k2e2z8p2xjr0rjx2p_ul93lgbzprqqzpdwnwdpzqqrpzexu_kr32yhd_pit8dwnm_ec72ac_01u310t404mfvyb_vajehda_8f4qvszmm_jy6yfy6yj_mmzsvq4f8_adhed2tiev9rv9sbo8e1r_bo864'
 #s = prefix + s
+# Initial comment
 
 max_len = 1
 max_str = s[0:1]
